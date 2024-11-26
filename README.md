@@ -1,7 +1,7 @@
 # ablyOS
 Connect to life quickly and protect yourself and your loved ones with a professional linux-based operating system.<br><br>
 --
-This OS is coming in December 2025, stay tuned. Stay tuned as it's made by the only person who will unfortunately arrive in 2024 or 2025. SPEED YOUR LIFE WITH A COMPUTER JOB FOR DEVELOPERS AND PERSONAL USE
+This operating system is coming in December 2027 - 2028, stay tuned. It is still under development due to some glitches and will arrive soon. A LINUX-BASED OPERATING SYSTEM FOR DEVELOPERS AND PERSONAL USE
 --
 
 
